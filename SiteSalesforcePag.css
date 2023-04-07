@@ -1,0 +1,9 @@
+body{
+    background-image: url(../img/salesforce4.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+html{
+    font-family:Georgia, 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    color: rgb(26, 11, 81);
+}
