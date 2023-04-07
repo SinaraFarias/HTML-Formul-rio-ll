@@ -1,0 +1,21 @@
+body{
+    background-image: url(../img/salesforce2.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.button{
+    background-color: white ;
+    color: #2962ff ;
+    height: 2.0rem;
+    display: inline-flex;
+
+    align-items: center;
+    padding: 0 2rem;
+
+    border-radius: 0.25rem;
+    font: 500 1rem 'DM Sans', sans-serif;
+    transition: background 0.3s;
+
+    position: relative;
+    top: -10px; left:700px
+}
