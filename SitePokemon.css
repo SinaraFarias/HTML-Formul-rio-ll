@@ -1,0 +1,27 @@
+body{
+    background-image: url(../img/pok5.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.logo{
+    font:900 1.31rem 'Poppins', sans-serif;
+    color: red;
+    top: 16px;
+}
+
+.button{
+    background-color:yellow;
+    color: black;
+    height: 2.0rem;
+    display: inline-flex;
+
+    align-items: center;
+    padding: 0 2rem;
+
+    border-radius: 0.25rem;
+    font: 500 1rem 'DM Sans', sans-serif;
+    transition: background 0.3s;
+
+    position: relative;
+    top: -70px; left:700px
+}
