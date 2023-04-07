@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+<body>
+    <style>
+        body{background-color: rgba(249, 204, 244, 0.562);}
+    </style>
+<h1>Seu Filme Preferido</h1>    
+<form action="">
+    <label for="Nome">Nome:</label></br>
+    <input type="text" name="Nome" id="Nome" placeholder="Preencha aqui seu nome"></br>
+</br>
+<label for="Email">E-mail</label> </br>
+<input type="text" name="Email" placeholder="Preencha seu E-mail"> </br>
+</br>
+<label for="Tipo">Filme/Série</label>
+<select name="Filme/Série" id="Filme/Série">
+<option value="Filme">Filme</option>
+<option value="Série">Série</option>
+</select> </br>
+</br>
+<label for="Nome Filme/Série">Nome do Filme/Série:</label> </br>
+<input type="text" name="Nome Filme/Série" id="NomeFilmeSerie" placeholder="Preencha o nome do seu Filme/Série"> </br>
+</br>
+<label for="Link">Tem o link do Trailer?</label></br>
+<input type="text" name="link" placeholder="link do trailer"> </br>
+<a href="siteexctabela.html" target="_blank"></br>
+<input type="button" value="Enviar"></a> </br>
+<p>Volte a Página Inicial<a href="Top5Filmes.html" rel="prev">Clique Aqui</a></p>
+</form>
+
+</body>
+</html>
